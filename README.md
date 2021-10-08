@@ -1,10 +1,11 @@
 Переключатель цветов
-
+__________________________
 
 Есть массив цветов в hex-формате и кнопки Start и Stop.
 
 <button type="button" data-action="start">Start</button>
 <button type="button" data-action="stop">Stop</button>
+
 const colors = [
   '#FFFFFF',
   '#2196F3',
